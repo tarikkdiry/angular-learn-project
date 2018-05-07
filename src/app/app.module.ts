@@ -22,7 +22,7 @@ import { DataService } from './data.service';
     FormsModule,      
     BrowserAnimationsModule      
   ],
-  providers: [],
+  providers: [DataService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
