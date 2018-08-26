@@ -1,6 +1,8 @@
-# LearnProject
+# Informr
+Can't decide what to read? Let us handle that...
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
+Angular 5
 
 ## Development server
 
